@@ -1,0 +1,7 @@
+{
+  "name": "versions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "chitchu <chitchu@gmail.com>",
+  "license": "MIT"
+}
